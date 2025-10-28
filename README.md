@@ -1,4 +1,4 @@
-# 🎓 QA.GURU Playrix Project
+# 🎓 QA.GURU Mobile Wiki Project
 
 *Небольшой проект по автоматизации на основе приложения Wikipedia, базовой проверке нескольких кейсов*
 # <img width="10%" title="wiki_logo" src="data/logo/icons8-wikipedia-48.png" />
@@ -17,6 +17,8 @@
   <img width="8%" title="Allure Report" src="data/logo/allure_report.png" alt="allure">
   <img width="8%" title="Selenoid" src="data/logo/selenoid.png" alt="selenoid">
   <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/browserstack/browserstack-original-wordmark.svg" />
+  <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+
 
 
 </p>
