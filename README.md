@@ -25,7 +25,7 @@
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="20" width="20"> Запуск тестов локально
 
-1) Клонировать репозиторий: git clone https://github.com/ashurko/qa_guru_python_21_diploma_mobile
+1) Клонировать репозиторий: git clone https://github.com/ashurko/qa_guru_python_21_diploma_mobile.git
 2) Установить зависимости: pip install -r requirements.txt
 3) Запуск тестов с выбором параметра источника запуска тестов: pytest --context={enviroment} (где enviroment = bstack / local_emulator / local_real_device)
 
