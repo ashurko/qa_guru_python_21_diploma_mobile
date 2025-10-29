@@ -1,5 +1,3 @@
-from asyncio import timeout
-
 import allure
 from appium.webdriver.common.appiumby import AppiumBy
 from selene import browser, have, be
